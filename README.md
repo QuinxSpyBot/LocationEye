@@ -10,7 +10,7 @@
 </div>
 
 > [!WARNING]
-> This Bot Is Specifically Created For Educational Purposes. Please Refrain From Misuse.
+> This Repositories Is Specifically Created For Educational Purposes. Please Refrain From Misuse.
 
 **Location Eye**
 
